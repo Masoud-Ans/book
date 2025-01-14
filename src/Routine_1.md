@@ -4,7 +4,13 @@
 
 Wroking Days
 
-Ernie->Bert
+MakeCoffee->EatBreakfast
+EatBreakfast->GetReady
+GetReady->GetIntoCar
+GetIntoCar->GoToWork
+GoToWork->ComeBackHome
+ComeBackHome->GoToBed
+
 
 @enduml
 
