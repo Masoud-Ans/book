@@ -1,5 +1,6 @@
 # Routine 2
 
+```plantuml
 @startuml Routine 2
 
 MakeCoffee->EatBreakfast
@@ -15,3 +16,4 @@ EatLunch->UnloadMachine
 UnloadMachine->GoToBed
 
 @enduml
+```
