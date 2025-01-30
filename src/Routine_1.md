@@ -1,5 +1,6 @@
 # Routine 1
 
+```plantuml
 @startuml Routine_1
 
 Wroking Days
@@ -13,7 +14,7 @@ ComeBackHome->GoToBed
 
 
 @enduml
-
+```
 
 
 
